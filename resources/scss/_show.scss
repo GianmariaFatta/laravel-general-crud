@@ -1,0 +1,124 @@
+#detail-card {
+    .card {
+        width: 600px;
+        height: 800px;
+        margin: 20px auto;
+        padding: 10px;
+        border: 5px solid #000;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+        font-weight: bold;
+
+
+    }
+
+    //   .card img {
+    //     display: block;
+    //     margin: 0 auto;
+    //     width: 80%;
+    //   }
+
+    .name {
+        border: 2px solid black;
+    }
+
+    .card h1 {
+        text-align: center;
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .card p {
+        text-align: center;
+        font-size: 18px;
+        margin: 0;
+    }
+}
+
+#list-card {
+    .card {
+        width: 400px;
+        height: 600px;
+        padding: 10px;
+        border: 5px solid #000;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+        font-weight: bold;
+    }
+
+    //   .card img {
+    //     display: block;
+    //     margin: 0 auto;
+    //     width: 80%;
+    //   }
+
+    .name {
+        border: 2px solid black;
+    }
+
+    .card h1 {
+        text-align: center;
+        font-size: 12px;
+        margin: 0;
+    }
+
+    .card p {
+        text-align: center;
+        font-size: 9px;
+        margin: 0;
+    }
+}
+
+.fire {
+    background-image: linear-gradient(to bottom, #6c0909, #ffc300);
+
+    .text-session {
+        background-color: #dfd79a;
+    }
+}
+
+.water {
+    background-image: linear-gradient(to bottom, #0077be, #fff);
+
+    .text-session {
+        background-color: #b4d8e4;
+    }
+}
+
+.nature {
+    background-color: #228b22;
+
+    .text-session {
+        background-color: #94ff94;
+    }
+}
+
+.death {
+    background-image: linear-gradient(to bottom, #777777, #333333);
+
+    .text-session {
+        background-color: #bbb6b6;
+    }
+}
+
+.light {
+    background-image: linear-gradient(to bottom, #dadac3, #ffffff);
+
+    .text-session {
+        background-color: #ffffff;
+    }
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
